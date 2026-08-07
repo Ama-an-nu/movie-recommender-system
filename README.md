@@ -31,6 +31,22 @@ A content-based movie recommendation system built using **Python**, **Machine Le
 
 ---
 
+## 🎯 Skills Demonstrated
+
+- Content-Based Recommendation Systems
+- Cosine Similarity
+- Feature Engineering
+- Data Preprocessing
+- API Integration
+- Deployment
+- Python Development
+  
+---
+## 📚 Dataset
+
+The project uses the TMDB 5000 Movies Dataset for generating movie recommendations.
+
+---
 ## 📂 Project Structure
 
 ```
